@@ -1,0 +1,21 @@
+{
+  "name": "application-configuration",
+  "version": "1.0.0",
+  "description": "This is configuration wrapper library that uses the Confidence plugin to retrieve settings and constants",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://innersource.accenture.com/projects/NMI/repos/application-configuration"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "chai": "^3.5.0",
+    "confidence": "^3.0.2",
+    "mocha": "^3.2.0"
+  }
+}
