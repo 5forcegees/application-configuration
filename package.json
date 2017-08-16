@@ -1,6 +1,6 @@
 {
   "name": "application-configuration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is configuration wrapper library that uses the Confidence plugin to retrieve settings and constants",
   "main": "index.js",
   "scripts": {
